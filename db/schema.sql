@@ -1,0 +1,3 @@
+DROP DATABASE IS EXISTS zombies_db;
+
+CREATE DATABASE zombies_db;
