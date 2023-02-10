@@ -1,0 +1,23 @@
+{
+  "name": "to-do-app-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmoore4452/To-Do-App-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmoore4452/To-Do-App-Practice/issues"
+  },
+  "homepage": "https://github.com/Bmoore4452/To-Do-App-Practice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
